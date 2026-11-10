@@ -41,12 +41,12 @@ python 02_hypotheses.py
 
 02_hypotheses.py saves 15 charts into figures/ and prints the numbers behind each one.
 
-#	Hypothesis	Chart 1	Chart 2	Chart 3
-H1	The 2020 rise was a firearm rise, in every region	matplotlib indexed lines	seaborn heatmap	plotly lines
-H2	Women are killed mostly by partners and family, men by acquaintances and strangers, and the gap has not narrowed	seaborn grouped bars	altair stacked facets	plotnine small multiples
-H3	The weapon depends on the relationship and the victim’s age	seaborn heatmap	plotly sunburst	bokeh stacked bars
-H4	Firearm share varies by state and is highest in the South	plotly map	folium map	seaborn box and dots
-H5	Arguments and gang killings are between age peers; felony killings have younger offenders	matplotlib hexbin	seaborn violin	altair dumbbell
+#	Hypothesis =Chart 1	= Chart 2	= Chart 3
+H1	The 2020 rise was a firearm rise, in every region	= matplotlib indexed lines	= seaborn heatmap	= plotly lines <br>
+H2	Women are killed mostly by partners and family, men by acquaintances and strangers, and the gap has not narrowed	= seaborn grouped bars	= altair stacked facets	= plotnine small multiples <br>
+H3	The weapon depends on the relationship and the victim’s age	= seaborn heatmap	= plotly sunburst	= bokeh stacked bars <br>
+H4	Firearm share varies by state and is highest in the South	= plotly map	= folium map	= seaborn box and dots <br>
+H5	Arguments and gang killings are between age peers; felony killings have younger offenders	= matplotlib hexbin	= seaborn violin	= altair dumbbell
 
 That is 8 libraries counting missingno. Three things to know when you run it:
 
