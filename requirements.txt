@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+altair
+folium
+plotnine
+missingno
+bokeh
+requests
+kaleido
+vl-convert-python
+python-pptx
